@@ -1,0 +1,38 @@
+/* Start of script */
+H1 {
+	color: white;
+	font-family: "Times New Roman";
+}
+H3 {
+	color: white;
+	font-family: "Times New Roman";
+}
+H4 {
+	color: white;
+	font-family: "Times New Roman";
+}
+H5 {
+	color: white;
+	font-family: "Times New Roman";
+}
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: lime;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+/* End of script */
+

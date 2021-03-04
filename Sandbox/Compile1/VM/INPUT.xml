@@ -1,0 +1,12 @@
+<xml>
+	<title>Input.xml</title>
+	<data>
+		<demo1> <!-- Used as a fallback !-->
+			<action1>Every time</action1>
+			<action2>Do 1 action</action2>
+			<action3>Do 1 action</action3>
+			<action4>Every time</action4>
+			<!-- Every time I do 1 pushup, I do 1 pushup !-->
+		</demo1>
+	</data>
+</xml>

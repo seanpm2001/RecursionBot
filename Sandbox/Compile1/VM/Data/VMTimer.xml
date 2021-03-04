@@ -1,0 +1,4 @@
+<xml>
+	<title>VMTimer.xml</title> <!-- File name !-->
+	<durationMax>"3000"</durationMax> <!-- Time is in Milliseconds !-->
+</xml>
